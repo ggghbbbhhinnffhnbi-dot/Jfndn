@@ -1,0 +1,8 @@
+BlackVerse/
+├── index.html          # Landing principal
+├── order.html          # Formulario de pedidos
+├── assets/
+│   ├── css/            # CSS modular
+│   ├── js/             # Vanilla JS
+│   └── img/            # Imágenes y SVGs
+└── README.md
